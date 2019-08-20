@@ -1,2 +1,3 @@
 <h1 align="center">Cygwin on Windows</h1>
-<hr/>
+
+## Установка по-умолчанию
